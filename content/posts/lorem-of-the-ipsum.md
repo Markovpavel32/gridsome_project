@@ -1,5 +1,5 @@
 ---
-title: Lorem of the Ipsum
+title: Povar povara
 author: chad-collins
 tags:
   - Development
